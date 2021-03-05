@@ -35,3 +35,6 @@ Changing the colour harmony from Mono to anything else triggers the creation of 
 ## TODO:
 - Make the code more modular, avoid global variables and isolate the picker into a single class / module
 - Refactor the code to be a bit cleaner
+
+# Other:
+The colour scheme is based on the one used by lospec.com
