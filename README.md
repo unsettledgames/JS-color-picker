@@ -1,7 +1,7 @@
 # JS-colour-picker
 Colour picker with extra features written in JavaScript.
 
-![JS colour picker in action](showcase.gif)
+![JS colour picker](showcase.mp4)
 
 ## Requirements:
 - Node
